@@ -1,7 +1,7 @@
 package com.example.analyserkafkamicroservice.service;
 
-import com.example.dataanalysermicroservice.config.LocalDateTimeDeserializer;
-import com.example.dataanalysermicroservice.model.Data;
+import com.example.analyserkafkamicroservice.config.LocalDateTimeDeserializer;
+import com.example.analyserkafkamicroservice.model.Data;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import jakarta.annotation.PostConstruct;
